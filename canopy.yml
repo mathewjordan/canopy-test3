@@ -1,15 +1,59 @@
-title: Zanzibar
-collection:
-  - https://api.dc.library.northwestern.edu/api/v2/collections/073ad358-d5e9-495b-8cb5-58bd5ec4c189?as=iiif
+title: Soviet Children's Books
 manifest:
   - https://figgy.princeton.edu/concern/scanned_resources/9d526963-ad39-403a-84b6-29f9783d81c6/manifest
   - https://figgy.princeton.edu/concern/scanned_resources/90ba3e88-4462-4c95-84cf-fe42adf479d6/manifest
   - https://figgy.princeton.edu/concern/scanned_resources/844b65b0-e879-43c7-a6c0-73524e73c6b4/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/ab3ec337-3fdc-48bd-99dc-370e573ac29f/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/c6f3b961-1da2-44c8-84d2-ae89df0d3216/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/cab71d54-6ac9-484a-baa0-adc0d4224d5f/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/84a8de53-e847-4278-83cf-4f36ceaf8f8e/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/acf964a8-51cd-41bf-8deb-6d3010b377b2/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/9ab4b12a-bebc-44e5-a25e-caa2da187c3c/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/93440f15-4562-4cd3-b2d5-c9b235cd78b5/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/862c8f8b-a04f-47bf-b214-2ec43a9375f0/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/a6a41065-b000-493a-94ad-709e69a26d1e/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/8540b9f2-6c92-4906-b528-ce10bbafd428/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/83a08136-1638-4561-b063-eaecdc434f7e/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/8c2ec36d-629a-4dd2-b682-6c3675e24aee/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/62192394-3328-441e-ab7f-b17f25a33427/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/be183b83-e339-41db-8c84-035e637ff815/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/0455b386-b021-4e2d-bb35-e4b4772b0c22/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/ea02ee7b-679c-49d2-b748-2354a57161d7/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/e50d8bc5-069d-41a9-906c-3f1f997eb13e/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/7d8a82d6-e617-433e-b5e9-57cdc71d726d/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/22f8c35a-1f8d-4275-af88-82264bf6ecb1/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/5b3dce12-4f59-4989-957a-56a268bbfc78/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/c2515ae9-b0ad-4cc5-95cb-1ae7cc1b900a/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/c66c6220-e7b0-4ff9-953c-f6fa07d4ac85/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/e091abdb-1197-44a4-a768-af4979eb1cb0/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/586c4d48-cebf-4324-a59f-bc40a509e9f3/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/f571784f-e8bd-4dff-ac21-8cf933e8a147/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/afeddf6c-92a7-4a78-b196-dbf23dbe90e4/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/b34e322e-d5df-418d-ae78-ebb157fe13a6/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/3df12dc3-f686-4f0e-85c4-7009be5ba5ed/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/5cd2a333-191b-4354-a91c-626def3140e3/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/dcdf4581-3980-4448-9530-ae302577f370/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/ac321746-d6f4-41ce-b03a-4a532a9b0867/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/0615940c-7c1a-4757-ab63-e6174471d666/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/0e01180d-eafa-48ec-8482-a92832e0bd5b/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/b84d757c-45f8-4609-ad05-5a198f5c96cb/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/bd477cf4-ecd1-41d6-afc9-2f325789d6a9/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/5a420f89-e100-4b1c-97d0-f73167822b3f/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/1e11b281-a403-47cb-9431-60e07996e4ca/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/e94b62a9-416b-4138-b782-675ad8a86281/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/e8ed80f4-a052-4e18-9e78-302754ec2c41/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/712d6dfb-4c46-4b84-8cf9-a5a1db231c57/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/24b1b07d-d35a-415a-8abc-639ccbabe767/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/1ea62424-91b8-4dde-9484-e7901fe73969/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/4b98eebb-ba45-4caa-bb16-a9d51b75c5d1/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/1a419a8f-7ce8-4b03-9039-0955b3cd4d8c/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/fdbde2a3-401f-41eb-9057-671ce5e1eee1/manifest
 metadata:
   - Author
   - Illustrator
 featured:
   - https://figgy.princeton.edu/concern/scanned_resources/844b65b0-e879-43c7-a6c0-73524e73c6b4/manifest
-  - https://api.dc.library.northwestern.edu/api/v2/works/1d208792-6355-43df-99e1-ec5c965ee915?as=iiif
-  - https://api.dc.library.northwestern.edu/api/v2/works/a13433ae-fc9f-429a-82ed-f810c5680200?as=iiif
-  - https://api.dc.library.northwestern.edu/api/v2/works/fdaee3f6-ead3-4880-9969-1ce820e8581c?as=iiif
+  - https://figgy.princeton.edu/concern/scanned_resources/1ea62424-91b8-4dde-9484-e7901fe73969/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/4b98eebb-ba45-4caa-bb16-a9d51b75c5d1/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/1a419a8f-7ce8-4b03-9039-0955b3cd4d8c/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/fdbde2a3-401f-41eb-9057-671ce5e1eee1/manifest  
