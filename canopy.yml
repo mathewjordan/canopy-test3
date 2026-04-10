@@ -2,14 +2,14 @@ title: Zanzibar
 collection:
   - https://api.dc.library.northwestern.edu/api/v2/collections/073ad358-d5e9-495b-8cb5-58bd5ec4c189?as=iiif
 manifest:
-  - https://api.dc.library.northwestern.edu/api/v2/works/a13433ae-fc9f-429a-82ed-f810c5680200?as=iiif
-  - https://api.dc.library.northwestern.edu/api/v2/works/fdaee3f6-ead3-4880-9969-1ce820e8581c?as=iiif
-  - https://api.dc.library.northwestern.edu/api/v2/works/261c3823-c82e-43b7-bba8-41046ce3a3dd?as=iiif
+  - https://figgy.princeton.edu/concern/scanned_resources/9d526963-ad39-403a-84b6-29f9783d81c6/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/90ba3e88-4462-4c95-84cf-fe42adf479d6/manifest
+  - https://figgy.princeton.edu/concern/scanned_resources/844b65b0-e879-43c7-a6c0-73524e73c6b4/manifest
 metadata:
-  - Subject
-  - Genre
+  - Author
+  - Illustrator
 featured:
-  - https://api.dc.library.northwestern.edu/api/v2/works/38d10b34-26e0-49f5-a696-455a86f1d28f?as=iiif
+  - https://figgy.princeton.edu/concern/scanned_resources/844b65b0-e879-43c7-a6c0-73524e73c6b4/manifest
   - https://api.dc.library.northwestern.edu/api/v2/works/1d208792-6355-43df-99e1-ec5c965ee915?as=iiif
   - https://api.dc.library.northwestern.edu/api/v2/works/a13433ae-fc9f-429a-82ed-f810c5680200?as=iiif
   - https://api.dc.library.northwestern.edu/api/v2/works/fdaee3f6-ead3-4880-9969-1ce820e8581c?as=iiif
